@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://c011ap553.github.io/sitemap.xml 
